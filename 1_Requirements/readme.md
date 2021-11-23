@@ -1,4 +1,7 @@
                                                                  CAFETERIA ORDER MANAGEMENT SYSTEM
+                                                                 
+# Introduction
+This is Simple Online Food Ordering System that has both admin side and customer side. The admin will manage all the data needed more importantly the list of available menus. The customer will explore and choose his/her desired menu’s. After that, the user will confirm his/her order and after that system will genertae bills.
     
 # Requirements
 --------------------------------------------------------------------------------------------------
@@ -24,7 +27,7 @@ Cafeteria is a place where we can have any beverages and refreshments of one's c
 ### Where:
 This project can be implemented in cafes and college cafeterias.
 ### How:
-This project elaborates basic concept for storing and generating ordered item’s detail. In this system, staff can sign up as a system admin, He/she can have full access to the system for maintaining daily records.
+This project elaborates basic concept for storing and generating ordered item’s detail. In this system, staff can sign up as a system admin, He/she can have full access to the system for maintaining daily records and user can view menu's and order accordingly.
 
 ## SWOT ANALYSIS
 -------------------------------------------------------------------------------------------------
@@ -36,18 +39,31 @@ This project elaborates basic concept for storing and generating ordered item’
 
 #### Weakness
 * Irregularity of updates can lead to hassles of purchases.
+* It doesn't have payment options
 
 #### Opportunities
 * Can be implemented in shops,Cafes and school canteens.
+* Can be implemented as an app in future
 
 #### Threats
-* Other similar applications
+* Hardware issues
 
 ## HIGH LEVEL REQUIREMENTS 
 -------------------------------------------------------------------------------------------------
-| HLR  | DESCRIPTION |
-| ------------- | ------------- |
-| HLR_1  | Calculate Bills  |
-| HLR_2  | Discount options  |
-| HLR_3  | Generate bills    |
+| ID| DESCRIPTION | STATUS |
+| :---         |     :---:      |          ---: |
+| HLR_1   |    Log-in  | Implemented    |
+| HLR_2     | Modify items(Add/delete)       | Implemented      |
+| HLR_3   |    Show menus  | Implemented    |
+| HLR_4     | Generate bills       | Implemented      |
+
+
+## LOW LEVEL REQUIREMENTS
+--------------------------------------------------------------------------------------------------
+| ID| DESCRIPTION | STATUS |
+| :---         |     :---:      |          ---: |
+| LLR_1   |    User Inputs (To check what they have chosen)  | Implemented    |
+| LLR_2     | Seperate App/website      | Future      |
+
+
 
