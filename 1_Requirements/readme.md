@@ -1,9 +1,9 @@
                                                                  CAFETERIA ORDER MANAGEMENT SYSTEM
-                                                                 
+# Requirements
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Introduction
 This is Simple Online Food Ordering System that has both admin side and customer side. The admin will manage all the data needed more importantly the list of available menus. The customer will explore and choose his/her desired menu’s. After that, the user will confirm his/her order and after that system will genertae bills.
     
-# Requirements
 --------------------------------------------------------------------------------------------------
 ## FEATURES
 
