@@ -7,3 +7,6 @@
 
 
 [![Unit Testing - Unity](https://github.com/Kaushika024/M1_Application_Cafeteria_Management_System/actions/workflows/unity.yml/badge.svg)](https://github.com/Kaushika024/M1_Application_Cafeteria_Management_System/actions/workflows/unity.yml)
+
+
+[![Build Windows](https://github.com/Kaushika024/M1_Application_Cafeteria_Management_System/actions/workflows/build_windows.yml/badge.svg)](https://github.com/Kaushika024/M1_Application_Cafeteria_Management_System/actions/workflows/build_windows.yml)
