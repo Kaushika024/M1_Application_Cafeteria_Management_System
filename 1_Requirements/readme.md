@@ -2,7 +2,7 @@
 # Requirements
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Introduction
-This is Simple Online Food Ordering System that has both admin side and customer side. The admin will manage all the data needed more importantly the list of available menus. The customer will explore and choose his/her desired menu’s. After that, the user will confirm his/her order and after that system will genertae bills.
+Global corporate working environment has led factories, offices, call centres, hospitals, clubs, hostels and schools to operate their own cafeteria for employees and students. The process of managing the cafeteria menu, attendance and consumption becomes quite challenging. An automated canteen management software is essential for preventing long queues by quick and easy transactions.This is Simple Online Food Ordering System that has both admin side and customer side. The admin will manage all the data needed more importantly the list of available menus. The customer will explore and choose his/her desired menu’s. After that, the user will confirm his/her order and after that system will genertae bills.
     
 --------------------------------------------------------------------------------------------------
 ## FEATURES
@@ -10,11 +10,9 @@ This is Simple Online Food Ordering System that has both admin side and customer
 * Reduces  long queues in cafeteria
 * Easy to add, edit, view, search and delete order details.
 * Calculation of total bill.
+* Eliminate Human Errors in Accounting
+* Increase Efficiency by Reducing Time and Cost of Ordering
 
-## STATE OF ART
--------------------------------------------------------------------------------------------------
-
-Yet to be done
 
 
 ## 4W and 1H
