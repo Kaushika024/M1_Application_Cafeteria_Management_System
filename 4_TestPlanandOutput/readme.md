@@ -4,7 +4,7 @@
 
 | **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
-|  H_01       ||Calculating Total Bill and adding 18% to bill and then return the Total amount of bill|Success|Success|Requirement based |
+|  H_01       |Calculating Total Bill and adding 18% to bill and then return the Total amount of bill|Success|Success|Requirement based |
 |  H_02       |Show customer the Food variety                                |  ---       |Success|Success|Scenario based    |
 
 ## Table no: Low level test plan
