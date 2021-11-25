@@ -62,3 +62,16 @@ This project elaborates basic concept for storing and generating ordered item’
 | LLR_1   |    User Inputs (To check what they have chosen)  | Implemented    |
 | LLR_2     | Seperate App/website      | Future      |
 
+
+## High level and Low level Architectures
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Behavioural diagram1](https://user-images.githubusercontent.com/94302959/143448750-223a5a07-bd2c-4dac-bcd9-4011defce0e8.png)
+
+![Behavioral diagrams2](https://user-images.githubusercontent.com/94302959/143448798-97d34181-3c8a-4f63-b4a2-677be6af607a.png)
+
+![Structural diagram1](https://user-images.githubusercontent.com/94302959/143448875-2b77fc70-82a0-452f-b419-2dbf3e7e48a4.png)
+
+![Structural diagram 2](https://user-images.githubusercontent.com/94302959/143448907-db451267-1a6b-46a3-b10a-4c6f212a8880.jpg)
+
+
+
