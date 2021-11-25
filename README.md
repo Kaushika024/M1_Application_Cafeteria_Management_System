@@ -10,3 +10,5 @@
 
 
 [![Build Windows](https://github.com/Kaushika024/M1_Application_Cafeteria_Management_System/actions/workflows/build_windows.yml/badge.svg)](https://github.com/Kaushika024/M1_Application_Cafeteria_Management_System/actions/workflows/build_windows.yml)
+
+[![Build_linux](https://github.com/Kaushika024/M1_Application_Cafeteria_Management_System/actions/workflows/build_linux.yml/badge.svg)](https://github.com/Kaushika024/M1_Application_Cafeteria_Management_System/actions/workflows/build_linux.yml)
