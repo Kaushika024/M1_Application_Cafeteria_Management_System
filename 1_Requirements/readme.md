@@ -34,7 +34,6 @@ This project elaborates basic concept for storing and generating ordered item’
 #### Strengths
 * Saves lot of time
 * Proper Validations.
-* Proper Log in system
 * Features to give Discounts
 
 #### Weakness
@@ -52,9 +51,9 @@ This project elaborates basic concept for storing and generating ordered item’
 -------------------------------------------------------------------------------------------------
 | ID| DESCRIPTION | STATUS |
 | :---         |     :---:      |          ---: |
-| HLR_1   |    Log-in  | Implemented    |
-| HLR_2     | Modify items(Add/delete)       | Implemented      |
-| HLR_3   |    Show menus  | Implemented    |
+| HLR_1    | Modify items(Add/delete)       | Implemented      |
+| HLR_2   |    Show menus  | Implemented    |
+| HLR_3     | GST Calculations       | Implemented      |
 | HLR_4     | Generate bills       | Implemented      |
 
 
